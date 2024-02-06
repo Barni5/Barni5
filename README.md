@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h2 align="center">My name is Barni </h2>
-<h3 align="center">Im a hungarian software engineer</h3>
+<h3 align="center">tools and languages</h3>
 
 <h3 align="center"><Languages and Tools:<</h3>
 
