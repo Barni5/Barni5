@@ -14,6 +14,6 @@
 <a target="_blank" rel="noreferrer" href="https://www.mysql.com/"> <img style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"> </a>
 <a target="_blank" rel="noreferrer" href="https://www.adobe.com/hu/products/photoshop"> <img style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="ps"> </a>
 <a target="_blank" rel="noreferrer" href="https://www.python.org/"> <img style="width: 40px; height: 40px;" src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/python.svg" alt="py"> </a>
-<a target="_blank" rel="noreferrer" href="https://www.lua.org/"> <img style="width: 40px; height: 40px;" src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/lua.svg" alt="py"> </a>
+<a target="_blank" rel="noreferrer" href="https://www.lua.org/"> <img style="width: 40px; height: 40px;" src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/lua.svg" alt="lua"> </a>
 
 
