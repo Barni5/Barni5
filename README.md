@@ -4,15 +4,16 @@
 
 <h3 align="center"><Languages and Tools:<</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/python.svg" alt="py" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/lua.svg" alt="lua" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+<a target="_blank" rel="noreferrer" href="https://www.w3schools.com/c/"> <img style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"> </a>
+<a target="_blank" rel="noreferrer" href="https://www.w3schools.com/cpp/"> <img style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp"> </a>
+<a target="_blank" rel="noreferrer" href="https://www.w3schools.com/cs/"> <img style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#"> </a>
+<a target="_blank" rel="noreferrer" href="https://www.w3schools.com/css/"> <img style="width: 40px; height: 40px;" src="https://github.com/walkxcode/dashboard-icons/blob/main/png/css.png" alt="css"> </a>
+<a target="_blank" rel="noreferrer" href="https://www.w3.org/html/"> <img style="width: 40px; height: 40px;" src="https://github.com/walkxcode/dashboard-icons/blob/main/png/html.png" alt="html"> </a>
+<a target="_blank" rel="noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img style="width: 40px; height: 40px;" src="https://github.com/walkxcode/dashboard-icons/blob/main/png/javascript.png" alt="js"> </a>
+<a target="_blank" rel="noreferrer" href="https://www.linux.org/"> <img style="width: 40px; height: 40px;" src="https://github.com/walkxcode/dashboard-icons/blob/main/png/linuxserver-io.png" alt="linux"> </a>
+<a target="_blank" rel="noreferrer" href="https://www.mysql.com/"> <img style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"> </a>
+<a target="_blank" rel="noreferrer" href="https://www.adobe.com/hu/products/photoshop"> <img style="width: 40px; height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="ps"> </a>
+<a target="_blank" rel="noreferrer" href="https://www.python.org/"> <img style="width: 40px; height: 40px;" src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/python.svg" alt="py"> </a>
+<a target="_blank" rel="noreferrer" href="https://www.lua.org/"> <img style="width: 40px; height: 40px;" src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/lua.svg" alt="py"> </a>
 
 
