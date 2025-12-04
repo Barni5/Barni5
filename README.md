@@ -12,6 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=barni5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"/>
+  <img src="https://gh2.barni5.codes/?user=barni5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"/>
   <img src="https://gh.barni5.codes/api/top-langs?username=barni5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"/>
 </p>
